@@ -1,4 +1,4 @@
-[Adobe Open Source](http://adobe.github.com)
+````[Adobe Open Source](http://adobe.github.com)
 =======================
 
 Presenting [Adobe GitHub Homepage v2.0](http://adobe.github.com), the new central hub for **Adobe Open sources** projects.
