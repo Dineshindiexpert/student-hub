@@ -7,8 +7,8 @@
         "logo": "img/snapsvg.svg",
         "textHeader": [
           "<h3>Snap.svg</h3>",
-          "<p class='details'>The JavaScript SVG library for the modern web.<br/>",
-          "<a href='http://snapsvg.io/' target='_blank'>Learn more...</a></p>"
+          "<p class='details'>The JavaScript SVG library for the modern web.</p><br/>",
+          "<a href='http://snapsvg.io/' target='_blank'>Learn more...</a>"
         ]
       }
     ],
@@ -18,7 +18,7 @@
         "logo": "img/adobe_research.png",
         "textHeader": [
           "<h3>Adobe Research</h3>",
-          "<p class='details'>Open-source published code from cutting-edge research at Adobe.<br/>",
+          "<p class='details'>Open-source published code from cutting-edge research at Adobe.</p><br/>",
           "<a href='https://research.adobe.com/' target='_blank'>Learn more...</a>"
         ]
       },
@@ -27,7 +27,7 @@
         "logo": "img/photoshop_logo.svg",
         "textHeader": [
           "<h3>Photoshop</h3>",
-          "<p class='details'>Code produced by the Adobe Photoshop team<br/>",
+          "<p class='details'>Code produced by the Adobe Photoshop team.</p><br/>",
           "<a href='https://github.com/adobe-photoshop' target='_blank'>View on github...</a>"
         ]
       }
